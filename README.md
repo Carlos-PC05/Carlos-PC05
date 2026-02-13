@@ -22,7 +22,7 @@ I'm currently working on some personal projects while I finish my Major (my main
 
 I'm a Python learner, everyday I learn something new to master the language
 
-#Some facts:
+# Some facts:
 - I love sports and spending time outdoors with family and friends
 - I'm a coffee addict
 - I am constantly listening to music

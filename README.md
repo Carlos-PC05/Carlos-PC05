@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 I'm Carlos, a Computer Science student from Spain
 I'm currently studying abroad at DeSales University (Pennsylvania)
 
-I'm currently working on some personal projects while I finish my Major (my main goal)
+I'm currently working on some personal projects while I finish my Major
 
-I'm a Python learner, everyday I learn something new to master the language
+I'm learning about Deep Learning, Convolutional Neural Networks and Imagen Analysis on my own
 
 ### Some facts:
 - I love sports and spending time outdoors with family and friends

@@ -20,7 +20,7 @@ I'm currently studying abroad at DeSales University (Pennsylvania)
 
 I'm currently working on some personal projects while I finish my Major
 
-I'm learning about Deep Learning, Convolutional Neural Networks and Imagen Analysis on my own
+I'm learning about Deep Learning, Convolutional Neural Networks and Image Analysis on my own
 
 ### Some facts:
 - I love sports and spending time outdoors with family and friends

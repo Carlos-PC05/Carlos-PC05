@@ -15,14 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Carlos, a Computer Science student from Spain
-I studied at DeSales University PA for one semester
+I'm Carlos, a Computer Science student from Spain, I studied at DeSales University PA for one semester
 
 I like learning more about tech besides my Major
 
 I'm learning about Deep Learning, Convolutional Neural Networks and Image Analysis on my own
 
-I'm open to collaborate with anybody, you can reach me throught linkedIn: https://www.linkedin.com/in/carlos-parra-camacho/
+I'm open to mek any project with anybody, you can reach me throught linkedIn: https://www.linkedin.com/in/carlos-parra-camacho/
 
 ### Some facts:
 - I love sports and spending time outdoors with family and friends
